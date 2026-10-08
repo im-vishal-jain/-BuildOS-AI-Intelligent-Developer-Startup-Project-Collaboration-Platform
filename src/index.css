@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+:root { --sidebar: 252px; --ink: #192535; --muted: #82909c; --line: #e1e6e5; --paper: #f6f8f6; --surface: #fff; --coral: #ef765f; --blue: #6b91c7; --gold: #d9a94b; --green: #65a483; --violet: #9b84bd; font-size: 16px; font-family: 'Inter', sans-serif; font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body { margin: 0; min-width: 320px; }
+#root { min-height: 100vh; }
